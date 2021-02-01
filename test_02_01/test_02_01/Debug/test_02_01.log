@@ -1,0 +1,19 @@
+﻿生成启动时间为 2021/2/1 21:52:46。
+     1>项目“D:\Code\code\test_02_01\test_02_01\test_02_01.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\Code\code\test_02_01\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\test_02_01.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\001\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\code\code\test_02_01\test_02_01\test.cpp(1): error C2065: “LinkList”: 未声明的标识符
+     1>d:\code\code\test_02_01\test_02_01\test.cpp(1): error C2065: “L”: 未声明的标识符
+     1>d:\code\code\test_02_01\test_02_01\test.cpp(1): error C2062: 意外的类型“int”
+     1>d:\code\code\test_02_01\test_02_01\test.cpp(2): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\code\code\test_02_01\test_02_01\test.cpp(2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>已完成生成项目“D:\Code\code\test_02_01\test_02_01\test_02_01.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.67
