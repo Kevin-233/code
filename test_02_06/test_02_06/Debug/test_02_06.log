@@ -1,0 +1,16 @@
+﻿生成启动时间为 2021/2/6 22:01:26。
+     1>项目“D:\Code\code\test_02_06\test_02_06\test_02_06.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\test_02_06.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\001\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\code\code\test_02_06\test_02_06\test.cpp(36): error C2664: “strlen”: 不能将参数 1 从“SString”转换为“const char *”
+                 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+     1>d:\code\code\test_02_06\test_02_06\test.cpp(36): error C2664: “strlen”: 不能将参数 1 从“SString”转换为“const char *”
+                 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+     1>已完成生成项目“D:\Code\code\test_02_06\test_02_06\test_02_06.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.34
